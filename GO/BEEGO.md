@@ -29,4 +29,6 @@ func init() {
 
 test-dzt 001
 test-dzt 002
+test-dzt 003
+test-dzt 004
 
