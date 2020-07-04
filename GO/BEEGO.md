@@ -27,8 +27,5 @@ func init() {
 #### 3. controllers相关
 
 
-test-dzt 001
-test-dzt 002
-test-dzt 003
-test-dzt 004
+checkout 0002
 
